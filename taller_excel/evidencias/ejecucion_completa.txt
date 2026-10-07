@@ -1,0 +1,253 @@
+Archivo cargado correctamente: 35 personas.
+
+CONSULTA DE PERSONAS
+1. Ver todos
+2. Ver Name y Email
+3. Contar registros
+4. Filtrar empresas con Group
+5. Buscar por ID
+0. Salir
+Selecciona una opción: ╒═════╤══════════════════════════════════════╤═════════════════════════╤═══════════════════════╤═════════════════════════════════════╤═══════════════════╕
+│  #  │ Id                                   │ Name                    │ Company               │ Email                               │ MAC Address       │
+╞═════╪══════════════════════════════════════╪═════════════════════════╪═══════════════════════╪═════════════════════════════════════╪═══════════════════╡
+│  1  │ 05936c10-1f8e-4a4c-95e4-e677f04f17a6 │ Juan Carlos Gómez       │ Andina Group          │ juan.carlos.gomez@example.com       │ 6b:af:c9:7c:5e:39 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│  2  │ 06074992-3dde-4ab6-be4f-acfc0deb0278 │ María Fernanda López    │ Comercial La Ceiba    │ maria.fernanda.lopez@example.com    │ a9:d6:1b:41:c5:1d │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│  3  │ 065a5b1a-30fe-4949-9a23-3d5a4e32a88b │ Andrés Felipe Restrepo  │ Servicios Antioquia   │ andres.felipe.restrepo@example.com  │ 93:ab:4e:f1:73:6f │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│  4  │ 0677f4bf-fb15-4c0a-a7ec-8e87ae3936c7 │ Laura Valentina García  │ Café del Valle        │ laura.valentina.garcia@example.com  │ f7:6c:1d:a3:58:da │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│  5  │ 08a3b92b-14a8-4ecd-a817-cbe8db0430dd │ Santiago Giraldo        │ Logística Paisa Group │ santiago.giraldo@example.com        │ b6:a4:34:fe:de:87 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│  6  │ 0a058cc8-fb3f-4911-add4-5ce203346e19 │ Daniela Cardona         │ Textiles del Norte    │ daniela.cardona@example.com         │ 26:95:5f:55:b5:51 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│  7  │ 0a9921c3-9767-4065-8470-020571092ea1 │ Carlos Andrés Ramírez   │ Soluciones del Caribe │ carlos.andres.ramirez@example.com   │ 14:1d:fb:90:95:d9 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│  8  │ 13a223dd-624b-4397-8a35-3a4c528e0365 │ Manuela Guerra          │ Andina Group          │ manuela.guerra@example.com          │ 35:65:cb:3a:2e:83 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│  9  │ 13cb559f-7563-4780-9649-6b141026ae85 │ Sebastián Muñoz         │ Comercial La Ceiba    │ sebastian.munoz@example.com         │ fb:d6:78:da:9a:56 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 10  │ 14df88a7-e476-445e-9622-a0244c98529d │ Natalia Henao           │ Servicios Antioquia   │ natalia.henao@example.com           │ a0:5e:8a:e6:ee:59 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 11  │ 1542aff9-71ba-4edf-a5aa-a2f6c1b3fbfa │ Luis Fernando Torres    │ Café del Valle        │ luis.fernando.torres@example.com    │ 89:97:38:21:8f:37 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 12  │ 16b74509-e8b3-4f2e-a3f5-fedbc23516bf │ Diana Carolina Pérez    │ Logística Paisa Group │ diana.carolina.perez@example.com    │ 3b:0a:49:6b:49:79 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 13  │ 1a3dac5e-fdef-4c13-a0f2-80aa7bc85c58 │ Camilo Jaramillo        │ Textiles del Norte    │ camilo.jaramillo@example.com        │ 1b:e8:5a:78:d0:4e │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 14  │ 1ee71cc3-4bb9-461d-bb6d-313aba83744d │ Paula Andrea Ríos       │ Soluciones del Caribe │ paula.andrea.rios@example.com       │ d5:cc:9c:7e:c5:2e │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 15  │ 1f75b217-faac-4ec4-972a-e4b630953478 │ Mateo Castaño           │ Andina Group          │ mateo.castano@example.com           │ ef:dc:24:70:85:53 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 16  │ 20f2792e-4da4-4f8d-989d-c12685d84573 │ Juliana Ospina          │ Comercial La Ceiba    │ juliana.ospina@example.com          │ 53:fc:4c:9a:12:6d │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 17  │ 2513552b-2b81-4aa8-b2d5-046290f83845 │ David Alejandro Herrera │ Servicios Antioquia   │ david.alejandro.herrera@example.com │ 73:4f:64:3d:9b:e5 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 18  │ 28aeac12-ab1b-48a2-ad9e-650836e15d51 │ Valentina Mejía         │ Café del Valle        │ valentina.mejia@example.com         │ b4:6d:02:4f:d5:27 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 19  │ 2917e66c-a1fd-4c40-bcd8-c2396c41220b │ Jorge Iván Bedoya       │ Logística Paisa Group │ jorge.ivan.bedoya@example.com       │ 88:4b:f8:48:ac:d2 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 20  │ 2a23d1da-9874-41d6-ad47-509955865597 │ Ana María Vélez         │ Textiles del Norte    │ ana.maria.velez@example.com         │ 22:1a:03:01:f8:16 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 21  │ 2cf7e081-1525-40e3-84cc-b864b311ea95 │ Miguel Ángel Sánchez    │ Soluciones del Caribe │ miguel.angel.sanchez@example.com    │ fa:b6:6e:4e:98:49 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 22  │ 2d606c02-3d31-4590-99bb-6c7ce6e7d173 │ Catalina Montoya        │ Andina Group          │ catalina.montoya@example.com        │ f4:85:a0:1c:10:ff │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 23  │ 3085fa8a-79ef-4748-b174-1fcf10dfd743 │ Alejandro Quintero      │ Comercial La Ceiba    │ alejandro.quintero@example.com      │ 9e:16:96:81:d7:ca │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 24  │ 37cacafc-05d1-4fd3-b95a-64df9ea1269f │ Sara Isabel Moreno      │ Servicios Antioquia   │ sara.isabel.moreno@example.com      │ d9:39:dd:66:97:98 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 25  │ 4167c32a-47e9-49d0-b588-44dc472d32c9 │ Felipe Arango           │ Café del Valle        │ felipe.arango@example.com           │ d3:cf:6d:c4:49:33 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 26  │ 41f5111e-8ff6-463e-aca4-de6e3af96c78 │ Marcela Jiménez         │ Logística Paisa Group │ marcela.jimenez@example.com         │ 4f:ac:49:5c:bb:76 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 27  │ 43ea1d70-3b6d-47c4-84dc-ae2a5ee2c3b6 │ Diego Fernando Salazar  │ Textiles del Norte    │ diego.fernando.salazar@example.com  │ df:d1:06:c5:8c:df │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 28  │ 4994c8c0-0d15-4ff3-b55f-4a35d6961dc1 │ Luisa Fernanda Vargas   │ Soluciones del Caribe │ luisa.fernanda.vargas@example.com   │ 0c:dc:0d:a5:34:6e │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 29  │ 49a9f8ed-830b-4975-ad50-ae9bf0437798 │ Nicolás Duque           │ Andina Group          │ nicolas.duque@example.com           │ 95:a9:78:32:9d:ba │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 30  │ 4e318228-bd05-4026-a916-30a4433a64d3 │ Carolina Agudelo        │ Comercial La Ceiba    │ carolina.agudelo@example.com        │ 68:e4:4e:1c:91:08 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 31  │ 508cbcf2-949e-4706-bbe3-5344fdfdabe9 │ Esteban Marín           │ Servicios Antioquia   │ esteban.marin@example.com           │ fd:c9:88:cf:fe:6a │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 32  │ 520bb664-fe00-4a75-89df-e13c28dfa521 │ Sandra Milena Ortiz     │ Café del Valle        │ sandra.milena.ortiz@example.com     │ 52:c3:59:9f:7a:c6 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 33  │ 55ca978c-8da9-4265-80a2-fe817402755d │ José Manuel Álvarez     │ Logística Paisa Group │ jose.manuel.alvarez@example.com     │ 59:28:4f:72:54:e0 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 34  │ 59255377-88ad-4a4d-a23a-90368dc0c321 │ Viviana Valencia        │ Textiles del Norte    │ viviana.valencia@example.com        │ de:72:57:90:5b:82 │
+├─────┼──────────────────────────────────────┼─────────────────────────┼───────────────────────┼─────────────────────────────────────┼───────────────────┤
+│ 35  │ 5c0e2179-edba-4a46-9c1d-769a3639ebbf │ Óscar Darío Betancur    │ Soluciones del Caribe │ oscar.dario.betancur@example.com    │ 61:88:1b:50:3a:1d │
+╘═════╧══════════════════════════════════════╧═════════════════════════╧═══════════════════════╧═════════════════════════════════════╧═══════════════════╛
+
+CONSULTA DE PERSONAS
+1. Ver todos
+2. Ver Name y Email
+3. Contar registros
+4. Filtrar empresas con Group
+5. Buscar por ID
+0. Salir
+Selecciona una opción: ╒═════════════════════════╤═════════════════════════════════════╕
+│ Name                    │ Email                               │
+╞═════════════════════════╪═════════════════════════════════════╡
+│ Juan Carlos Gómez       │ juan.carlos.gomez@example.com       │
+├─────────────────────────┼─────────────────────────────────────┤
+│ María Fernanda López    │ maria.fernanda.lopez@example.com    │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Andrés Felipe Restrepo  │ andres.felipe.restrepo@example.com  │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Laura Valentina García  │ laura.valentina.garcia@example.com  │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Santiago Giraldo        │ santiago.giraldo@example.com        │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Daniela Cardona         │ daniela.cardona@example.com         │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Carlos Andrés Ramírez   │ carlos.andres.ramirez@example.com   │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Manuela Guerra          │ manuela.guerra@example.com          │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Sebastián Muñoz         │ sebastian.munoz@example.com         │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Natalia Henao           │ natalia.henao@example.com           │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Luis Fernando Torres    │ luis.fernando.torres@example.com    │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Diana Carolina Pérez    │ diana.carolina.perez@example.com    │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Camilo Jaramillo        │ camilo.jaramillo@example.com        │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Paula Andrea Ríos       │ paula.andrea.rios@example.com       │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Mateo Castaño           │ mateo.castano@example.com           │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Juliana Ospina          │ juliana.ospina@example.com          │
+├─────────────────────────┼─────────────────────────────────────┤
+│ David Alejandro Herrera │ david.alejandro.herrera@example.com │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Valentina Mejía         │ valentina.mejia@example.com         │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Jorge Iván Bedoya       │ jorge.ivan.bedoya@example.com       │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Ana María Vélez         │ ana.maria.velez@example.com         │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Miguel Ángel Sánchez    │ miguel.angel.sanchez@example.com    │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Catalina Montoya        │ catalina.montoya@example.com        │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Alejandro Quintero      │ alejandro.quintero@example.com      │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Sara Isabel Moreno      │ sara.isabel.moreno@example.com      │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Felipe Arango           │ felipe.arango@example.com           │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Marcela Jiménez         │ marcela.jimenez@example.com         │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Diego Fernando Salazar  │ diego.fernando.salazar@example.com  │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Luisa Fernanda Vargas   │ luisa.fernanda.vargas@example.com   │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Nicolás Duque           │ nicolas.duque@example.com           │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Carolina Agudelo        │ carolina.agudelo@example.com        │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Esteban Marín           │ esteban.marin@example.com           │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Sandra Milena Ortiz     │ sandra.milena.ortiz@example.com     │
+├─────────────────────────┼─────────────────────────────────────┤
+│ José Manuel Álvarez     │ jose.manuel.alvarez@example.com     │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Viviana Valencia        │ viviana.valencia@example.com        │
+├─────────────────────────┼─────────────────────────────────────┤
+│ Óscar Darío Betancur    │ oscar.dario.betancur@example.com    │
+╘═════════════════════════╧═════════════════════════════════════╛
+
+CONSULTA DE PERSONAS
+1. Ver todos
+2. Ver Name y Email
+3. Contar registros
+4. Filtrar empresas con Group
+5. Buscar por ID
+0. Salir
+Selecciona una opción: Total de registros: 35
+
+CONSULTA DE PERSONAS
+1. Ver todos
+2. Ver Name y Email
+3. Contar registros
+4. Filtrar empresas con Group
+5. Buscar por ID
+0. Salir
+Selecciona una opción: Empresas que contienen Group:
+╒═════╤══════════════════════════════════════╤══════════════════════╤═══════════════════════╤══════════════════════════════════╤═══════════════════╕
+│  #  │ Id                                   │ Name                 │ Company               │ Email                            │ MAC Address       │
+╞═════╪══════════════════════════════════════╪══════════════════════╪═══════════════════════╪══════════════════════════════════╪═══════════════════╡
+│  1  │ 05936c10-1f8e-4a4c-95e4-e677f04f17a6 │ Juan Carlos Gómez    │ Andina Group          │ juan.carlos.gomez@example.com    │ 6b:af:c9:7c:5e:39 │
+├─────┼──────────────────────────────────────┼──────────────────────┼───────────────────────┼──────────────────────────────────┼───────────────────┤
+│  5  │ 08a3b92b-14a8-4ecd-a817-cbe8db0430dd │ Santiago Giraldo     │ Logística Paisa Group │ santiago.giraldo@example.com     │ b6:a4:34:fe:de:87 │
+├─────┼──────────────────────────────────────┼──────────────────────┼───────────────────────┼──────────────────────────────────┼───────────────────┤
+│  8  │ 13a223dd-624b-4397-8a35-3a4c528e0365 │ Manuela Guerra       │ Andina Group          │ manuela.guerra@example.com       │ 35:65:cb:3a:2e:83 │
+├─────┼──────────────────────────────────────┼──────────────────────┼───────────────────────┼──────────────────────────────────┼───────────────────┤
+│ 12  │ 16b74509-e8b3-4f2e-a3f5-fedbc23516bf │ Diana Carolina Pérez │ Logística Paisa Group │ diana.carolina.perez@example.com │ 3b:0a:49:6b:49:79 │
+├─────┼──────────────────────────────────────┼──────────────────────┼───────────────────────┼──────────────────────────────────┼───────────────────┤
+│ 15  │ 1f75b217-faac-4ec4-972a-e4b630953478 │ Mateo Castaño        │ Andina Group          │ mateo.castano@example.com        │ ef:dc:24:70:85:53 │
+├─────┼──────────────────────────────────────┼──────────────────────┼───────────────────────┼──────────────────────────────────┼───────────────────┤
+│ 19  │ 2917e66c-a1fd-4c40-bcd8-c2396c41220b │ Jorge Iván Bedoya    │ Logística Paisa Group │ jorge.ivan.bedoya@example.com    │ 88:4b:f8:48:ac:d2 │
+├─────┼──────────────────────────────────────┼──────────────────────┼───────────────────────┼──────────────────────────────────┼───────────────────┤
+│ 22  │ 2d606c02-3d31-4590-99bb-6c7ce6e7d173 │ Catalina Montoya     │ Andina Group          │ catalina.montoya@example.com     │ f4:85:a0:1c:10:ff │
+├─────┼──────────────────────────────────────┼──────────────────────┼───────────────────────┼──────────────────────────────────┼───────────────────┤
+│ 26  │ 41f5111e-8ff6-463e-aca4-de6e3af96c78 │ Marcela Jiménez      │ Logística Paisa Group │ marcela.jimenez@example.com      │ 4f:ac:49:5c:bb:76 │
+├─────┼──────────────────────────────────────┼──────────────────────┼───────────────────────┼──────────────────────────────────┼───────────────────┤
+│ 29  │ 49a9f8ed-830b-4975-ad50-ae9bf0437798 │ Nicolás Duque        │ Andina Group          │ nicolas.duque@example.com        │ 95:a9:78:32:9d:ba │
+├─────┼──────────────────────────────────────┼──────────────────────┼───────────────────────┼──────────────────────────────────┼───────────────────┤
+│ 33  │ 55ca978c-8da9-4265-80a2-fe817402755d │ José Manuel Álvarez  │ Logística Paisa Group │ jose.manuel.alvarez@example.com  │ 59:28:4f:72:54:e0 │
+╘═════╧══════════════════════════════════════╧══════════════════════╧═══════════════════════╧══════════════════════════════════╧═══════════════════╛
+
+CONSULTA DE PERSONAS
+1. Ver todos
+2. Ver Name y Email
+3. Contar registros
+4. Filtrar empresas con Group
+5. Buscar por ID
+0. Salir
+Selecciona una opción: Copia el ID completo de la persona: ╒═════╤══════════════════════════════════════╤═══════════════════╤══════════════╤═══════════════════════════════╤═══════════════════╕
+│  #  │ Id                                   │ Name              │ Company      │ Email                         │ MAC Address       │
+╞═════╪══════════════════════════════════════╪═══════════════════╪══════════════╪═══════════════════════════════╪═══════════════════╡
+│  1  │ 05936c10-1f8e-4a4c-95e4-e677f04f17a6 │ Juan Carlos Gómez │ Andina Group │ juan.carlos.gomez@example.com │ 6b:af:c9:7c:5e:39 │
+╘═════╧══════════════════════════════════════╧═══════════════════╧══════════════╧═══════════════════════════════╧═══════════════════╛
+
+CONSULTA DE PERSONAS
+1. Ver todos
+2. Ver Name y Email
+3. Contar registros
+4. Filtrar empresas con Group
+5. Buscar por ID
+0. Salir
+Selecciona una opción: Copia el ID completo de la persona: No se encontró ninguna persona con ese ID.
+
+CONSULTA DE PERSONAS
+1. Ver todos
+2. Ver Name y Email
+3. Contar registros
+4. Filtrar empresas con Group
+5. Buscar por ID
+0. Salir
+Selecciona una opción: Copia el ID completo de la persona: Debes escribir un ID.
+
+CONSULTA DE PERSONAS
+1. Ver todos
+2. Ver Name y Email
+3. Contar registros
+4. Filtrar empresas con Group
+5. Buscar por ID
+0. Salir
+Selecciona una opción: Opción inválida. Escribe 0, 1, 2, 3, 4 o 5.
+
+CONSULTA DE PERSONAS
+1. Ver todos
+2. Ver Name y Email
+3. Contar registros
+4. Filtrar empresas con Group
+5. Buscar por ID
+0. Salir
+Selecciona una opción: Consulta finalizada.
