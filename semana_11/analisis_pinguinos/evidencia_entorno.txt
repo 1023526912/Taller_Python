@@ -1,0 +1,10 @@
+Verificacion ejecutada en un entorno virtual limpio (Linux).
+
+Python: 3.12.14
+Entorno virtual: activo
+pandas: 3.0.6
+matplotlib: 3.11.2
+seaborn: 0.13.2
+Entorno listo para el futuro análisis de pingüinos.
+
+No broken requirements found.
