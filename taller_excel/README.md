@@ -9,12 +9,12 @@ Lectura de la hoja activa de `personas.xlsx`, almacenamiento en listas y visuali
 3. En VS Code selecciona **Archivo > Abrir carpeta** y abre `taller_excel`.
 4. Ejecuta `preparar_entorno.bat` haciendo doble clic desde el Explorador. Espera a que indique que el entorno está listo.
 5. En VS Code pulsa `Ctrl+Shift+P`, busca **Python: Select Interpreter** y selecciona `.venv`. Si no aparece, selecciona **Enter interpreter path** y busca `.venv\Scripts\python.exe` dentro de esta carpeta.
-6. Abre `TallerExcel_Python_NombreApellido.py` y pulsa **Run Python File in Terminal** (triángulo arriba a la derecha). Escribe las opciones en la terminal.
+6. Abre `TallerExcel_Python_NicoleBolivar.py` y pulsa **Run Python File in Terminal** (triángulo arriba a la derecha). Escribe las opciones en la terminal.
 
 También puedes ejecutarlo desde la terminal de VS Code:
 
 ```powershell
-.\.venv\Scripts\python.exe TallerExcel_Python_NombreApellido.py
+.\.venv\Scripts\python.exe TallerExcel_Python_NicoleBolivar.py
 ```
 
 ## Instalación manual
@@ -24,7 +24,7 @@ Abre **Terminal > Nueva terminal** dentro de `taller_excel`:
 ```powershell
 py -3.12 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe TallerExcel_Python_NombreApellido.py
+.\.venv\Scripts\python.exe TallerExcel_Python_NicoleBolivar.py
 ```
 
 En macOS o Linux:
@@ -33,7 +33,7 @@ En macOS o Linux:
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
-python TallerExcel_Python_NombreApellido.py
+python TallerExcel_Python_NicoleBolivar.py
 ```
 
 ## Retos resueltos
@@ -62,7 +62,7 @@ Los nombres, empresas y correos son datos ficticios para el taller. Se conservan
 
 ## Antes de entregar
 
-1. Renombra `TallerExcel_Python_NombreApellido.py` con tu nombre y apellido, como pide la guía. El programa sigue funcionando después del cambio. Usa el nuevo nombre al ejecutarlo desde la terminal.
+1. El archivo Python está identificado con el nombre de Nicole Bolivar.
 2. En `evidencias` están las imágenes de la salida real del programa y la transcripción. Las imágenes se generaron a partir de esa salida. Si el profesor pide una captura de tu propia pantalla, ejecuta la opción 1 y toma una captura de la terminal de VS Code con `Win+Shift+S`.
 3. Entrega el Python, `personas.xlsx`, las evidencias y `requirements.txt`. No incluyas `.venv` en GitHub.
 
